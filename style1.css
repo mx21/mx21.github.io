@@ -1,0 +1,23 @@
+body{
+	background: #DCDCDC;
+	font-family: sans-serif;
+	min-width: 720px;
+	max-width: 720px: 
+}
+
+#header {
+	border: 1px solid #b5b7ba;
+	
+}
+
+p{
+	margin-bottom: 20px;
+}
+
+#footer{
+	text-align: center;
+	font-size: 20px;
+	color: #a4a4a4;
+	height: 140px;
+}
+
